@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Harismushtaq12/Harismushtaq12/main/assets/banner.v1.svg" alt="Mohammad Haris Mushtaq: ServiceNow Dev and AI Researcher" width="900" />
+<img src="https://raw.githubusercontent.com/Harismushtaq12/Harismushtaq12/main/assets/banner.v2.svg" alt="Mohammad Haris Mushtaq: ServiceNow Dev and AI Researcher" width="900" />
 
 <a href="https://github.com/Harismushtaq12">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=A99CFF&center=true&vCenter=true&width=900&height=50&lines=Mohammad+Haris+Mushtaq+-+ServiceNow+Dev+%26+AI+Researcher;Building+ServiceNow+solutions+at+NowEdge;Researching+explainable+AI+and+AI+for+materials;Deepfake+detection+with+explainable+AI" alt="Mohammad Haris Mushtaq, ServiceNow Dev and AI Researcher" />
