@@ -22,14 +22,14 @@
 
 ## About
 
-I am a ServiceNow developer and AI researcher from Pakistan. I hold a BS in Artificial Intelligence from NUTECH, where my thesis was on multimodal deepfake detection with explainable AI. I work full time as a ServiceNow Dev at NowEdge, and after work I research how AI can support sustainable materials and critical raw materials.
+I am a ServiceNow developer and AI researcher from Pakistan. I hold a BS in Artificial Intelligence from NUTECH, where my thesis was on multimodal deepfake detection with explainable AI. I work full time as a ServiceNow Dev, and after work I research how AI can support sustainable materials and critical raw materials.
 
 - **Role:** ServiceNow Dev at NowEdge
 - **Education:** BS Artificial Intelligence, NUTECH Islamabad
 - **Research:** explainable AI, deepfake detection, AI for materials and critical raw materials
 - **Currently:** pursuing ServiceNow certifications and writing up research papers
 - **Leadership:** President, Scholar Bridge Society (NUTECH)
-- **Community:** Member, Alif Relief Foundation
+- **Community:** Executive Member, Alif Relief Foundation
 
 ---
 
