@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Harismushtaq12/Harismushtaq12/main/assets/banner.v2.svg" alt="Mohammad Haris Mushtaq: ServiceNow Dev and AI Researcher" width="900" />
+<img src="https://raw.githubusercontent.com/Harismushtaq12/Harismushtaq12/main/assets/banner.v3.svg" alt="Mohammad Haris Mushtaq, ServiceNow Developer" width="900" />
 
 <a href="https://github.com/Harismushtaq12">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=A99CFF&center=true&vCenter=true&width=900&height=50&lines=Mohammad+Haris+Mushtaq+-+ServiceNow+Dev+%26+AI+Researcher;Building+ServiceNow+solutions;Researching+explainable+AI+and+AI+for+materials;Deepfake+detection+with+explainable+AI" alt="Mohammad Haris Mushtaq, ServiceNow Dev and AI Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=A99CFF&center=true&vCenter=true&width=900&height=50&lines=Mohammad+Haris+Mushtaq+-+ServiceNow+Developer;ITSM%2C+HRSD%2C+CMDB+and+Discovery;Python%2C+TensorFlow+and+explainable+AI;AI+for+critical+raw+materials" alt="Mohammad Haris Mushtaq, ServiceNow Developer" />
 </a>
 
 <br/>
@@ -22,22 +22,23 @@
 
 ## About
 
-I am a ServiceNow developer and AI researcher from Pakistan. I hold a BS in Artificial Intelligence from NUTECH, where my thesis was on multimodal deepfake detection with explainable AI. I work full time as a ServiceNow Dev, and after work I research how AI can support sustainable materials and critical raw materials.
+I am a ServiceNow developer from Pakistan with a BS in Artificial Intelligence from NUTECH. I build reliable workflows on ServiceNow, and I enjoy explainable AI, computer vision and AI for sustainable materials.
 
-- **Role:** ServiceNow Dev at NowEdge
+- **Role:** ServiceNow Developer
+- **Working on:** ITSM, HRSD, CMDB and Discovery
 - **Education:** BS Artificial Intelligence, NUTECH Islamabad
-- **Research:** explainable AI, deepfake detection, AI for materials and critical raw materials
-- **Currently:** pursuing ServiceNow certifications and writing up research papers
+- **Interests:** explainable AI, computer vision, AI for critical raw materials
+- **Next:** working toward ServiceNow certifications
 - **Leadership:** President, Scholar Bridge Society (NUTECH)
-- **Community:** Executive Member, Alif Relief Foundation
+- **Community:** Member, Alif Relief Foundation
 
 ---
 
-## Stack
+## Toolbox
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,git,github,vscode&perline=5" alt="Python, JavaScript, Git, GitHub, VS Code" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,js,git,github,vscode&perline=6" alt="Python, TensorFlow, JavaScript, Git, GitHub, VS Code" />
 
 <br/><br/>
 
@@ -46,54 +47,41 @@ I am a ServiceNow developer and AI researcher from Pakistan. I hold a BS in Arti
 
 </div>
 
----
+<br/>
 
-## Research
-
-Select a project to see details.
+Select a group to see the details.
 
 <details>
-<summary><b>Multimodal deepfake detection with explainable AI</b> &nbsp;|&nbsp; BS thesis</summary>
+<summary><b>ServiceNow</b></summary>
 
 <br/>
 
-Final-year thesis, expanded from a smaller deepfake detection project that placed 1st in my department and 2nd across the NUTECH School of IT. The work detects manipulated media from more than one signal and explains why the model reached its decision, so the result can be trusted and checked.
+- ITSM, HRSD, CMDB and Discovery
+- JavaScript scripting on the platform
+- Workspace lists, case SLAs and record producers
 
 </details>
 
 <details>
-<summary><b>Auditing AI-discovered materials for critical-element dependence</b> &nbsp;|&nbsp; in progress</summary>
+<summary><b>Python and AI</b></summary>
 
 <br/>
 
-An audit of AI-proposed crystals from the GNoME dataset, compared with known materials from the Materials Project. The question is whether AI materials discovery favours elements with high supply risk. Analysis is run in Google Colab.
+- Python and TensorFlow
+- Computer vision and image classification
+- Explainable AI with SHAP, LIME and Grad-CAM
+- Deep learning and model deployment
 
 </details>
 
 <details>
-<summary><b>Physics-informed graph neural network for critical mineral trade</b> &nbsp;|&nbsp; in progress</summary>
+<summary><b>Tools and platforms</b></summary>
 
 <br/>
 
-A heterogeneous graph neural network that models trade flows of critical minerals such as lithium and nickel. A mass-conservation term in the loss keeps predictions physically consistent. Built as a series of Colab notebooks.
-
-</details>
-
-<details>
-<summary><b>Literature review: AI for critical-element-free materials</b> &nbsp;|&nbsp; early stage</summary>
-
-<br/>
-
-A planned review of how AI helps replace critical elements in functional materials such as magnets, battery cathodes and catalysts.
-
-</details>
-
-<details>
-<summary><b>Synthetic data for privacy-compliant AI</b> &nbsp;|&nbsp; co-author, in progress</summary>
-
-<br/>
-
-A co-authored paper on using synthetic data to train useful models while respecting privacy rules. I am working to add rigorous experiments to it.
+- Git and GitHub
+- Google Colab
+- Visual Studio Code
 
 </details>
 
@@ -128,7 +116,7 @@ A co-authored paper on using synthetic data to train useful models while respect
 
 ## Contact
 
-Open to conversations about ServiceNow, explainable AI and AI for materials research.
+Open to conversations about ServiceNow, explainable AI and AI for materials.
 
 <div align="center">
 
