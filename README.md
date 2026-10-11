@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Harismushtaq12/Harismushtaq12/main/assets/banner.v3.svg" alt="Mohammad Haris Mushtaq, ServiceNow Developer" width="900" />
+<img src="https://raw.githubusercontent.com/Harismushtaq12/Harismushtaq12/main/assets/banner.v4.svg" alt="Mohammad Haris Mushtaq, ServiceNow Developer" width="900" />
 
 <a href="https://github.com/Harismushtaq12">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1000&color=A99CFF&center=true&vCenter=true&width=900&height=50&lines=Mohammad+Haris+Mushtaq+-+ServiceNow+Developer;ITSM%2C+HRSD%2C+CMDB+and+Discovery;Python%2C+TensorFlow+and+explainable+AI;AI+for+critical+raw+materials" alt="Mohammad Haris Mushtaq, ServiceNow Developer" />
